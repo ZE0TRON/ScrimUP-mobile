@@ -1,4 +1,4 @@
-# ScrimUP Server
+# ScrimUP Mobile
 
 ## Legal
 
